@@ -1,0 +1,9 @@
+{
+  "name": "team-timeboxing",
+  "version": "0.0.1",
+  "description": "first try",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "private": true
+}
